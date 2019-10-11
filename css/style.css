@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("../img/sand.jpg");
+    background-position: center;
+    background-size: cover;
+
+    font-family: seguoe ui;
+}
+section {
+    padding: 1.2rem;
+}
+#about_us p{
+    font-size: 0.95rem;
+}
+table {
+   font-size: 0.95rem;
+}
